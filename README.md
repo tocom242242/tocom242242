@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=tocom242242&show_icons=true&hide=[%22issues%22])
+
 <!--
 **tocom242242/tocom242242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
